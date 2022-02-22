@@ -1,0 +1,15 @@
+.c-nav--footer__menu{
+  display: inline-flex;
+  align-items: flex-start;
+}
+
+a{
+  display: inline-flex;
+  align-items: flex-start;
+}
+
+c-nav--footer .c-nav--primary__listitem.has_secondary .v--main {
+  text-transform: uppercase;
+  color: #000;
+  font-weight: 700;
+}
